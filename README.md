@@ -260,3 +260,7 @@ Token Usage:
 Cost:
   Total:    $0.180210
 ```
+
+## License
+
+Copyright (c) 2026 Justin David San Juan. All rights reserved.
